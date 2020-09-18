@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**技术栈**
+
+
+**我的github**
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuanyanmin&show_icons=true&theme=radical)
+
+**联系我**
+
+邮箱：1414011709@qq.com
